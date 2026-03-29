@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priyanshuraut1009-debug.github.io/imtools-seo/sitemap.xml
